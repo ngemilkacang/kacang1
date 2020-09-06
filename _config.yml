@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               'Light Speed'
-url:                 https://lightspeed.netlify.com
-tagline:             'Jekyll theme with a perfect Lighthouse score'
+title:               'Ngemil Kacang'
+url:                 https://ngemilkacang.github.io
+tagline:             'Biar nggak hilang aja'
 baseurl:             ""
 
 # Assets
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Bradley Taunt
-  url:               https://twitter.com/bradtaunt
-  email:             bradleytaunt@gmail.com
+  name:              Shlhnj
+  url:               #
+  email:             #
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/bradleytaunt/lightspeed
+  repo:              https://github.com/ngemilkacang/ngemilkacang.github.io
