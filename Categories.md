@@ -1,5 +1,6 @@
 ---
-Layout: categories
-Title: categories
-Description: categories
+layout: categories
+title: categories
+description: categories
+permalink: /categories
 ---
