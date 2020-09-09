@@ -15,7 +15,6 @@ title: Categories
 {% for post in pages_list %}
 {% if post.title != null %}
 {% if group == null or group == post.group %}
-{% include postbox.html %}
 {% endif %}
 {% endif %}
 {% endfor %}
