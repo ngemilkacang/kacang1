@@ -3,7 +3,7 @@ layout: post
 title:  "Resume Siklus Batuan"
 author: Slhnj
 description: Resume Mengenai Siklus Batuan Secara Umum & Singkat
-Categories: resume, geologi, laut
+Categories: [resume, geologi, laut]
 ---
 Geologi Laut
 
@@ -27,7 +27,6 @@ Dari gambar di atas, dapat dilihat proses transformasi dari satubatuan ke batuan
 
 ___
 **Daftar Pustaka:**
-
 Bieneman, Paul. 1999. Michigan—A Physical Perspective. Aquinas College. 6th Printing 1999 Pg 4.
 
 Nizamullah., Akmam., Syafriani. 2018. Struktur Batuan Pascalongsor Menggunakan Metode Geolistrik Tahanan Jenis Konfigurasi Wenner. Pillar Of Physics Vol II No 1 Maret 2018, 25-32.
