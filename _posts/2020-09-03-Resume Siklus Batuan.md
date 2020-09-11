@@ -24,8 +24,9 @@ Material yang melapuk dapat terkumpul pada kedalaman yang signifikan, seringkali
 
 Dari gambar di atas, dapat dilihat proses transformasi dari satubatuan ke batuan lain. Pelapukan dapat mereduksi semua batuan menjadi sedimen, yang nantinya menjadi batuan sedimen. Sedangkan panas dan tekanan dapat mengubah semua batuan menjadi batuan metamorf, dan peleburan dapat mengubah semua batuan Kembali menjadi magma yang pada akhirnya menjadi batuan beku.
 
-
+___
 **Daftar Pustaka:**
 
 Bieneman, Paul. 1999. Michigan—A Physical Perspective. Aquinas College. 6th Printing 1999 Pg 4.
+
 Nizamullah., Akmam., Syafriani. 2018. Struktur Batuan Pascalongsor Menggunakan Metode Geolistrik Tahanan Jenis Konfigurasi Wenner. Pillar Of Physics Vol II No 1 Maret 2018, 25-32.
