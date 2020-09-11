@@ -2,7 +2,7 @@
 layout: post
 title:  "Resume Siklus Batuan"
 author: Slhnj
-desccription: Resume Mengenai Siklus Batuan Secara Umum & Singkat
+description: Resume Mengenai Siklus Batuan Secara Umum & Singkat
 ---
 Geologi Laut
 Resume Batuan & Siklus Geologi
