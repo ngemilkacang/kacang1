@@ -5,6 +5,7 @@ author: Slhnj
 description: Resume Mengenai Siklus Batuan Secara Umum & Singkat
 ---
 Geologi Laut
+
 Resume Batuan & Siklus Geologi
 
 ![Siklus Batuan](/_asset/_img/Reviwe/Satelit/siklusbatuan.png) <br>
