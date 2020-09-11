@@ -7,7 +7,7 @@ desccription: Resume Mengenai Siklus Batuan Secara Umum & Singkat
 Geologi Laut
 Resume Batuan & Siklus Geologi
 
-![Siklus Batuan](_asset/_img/Reviwe/Satelit/siklusbatuan.png) <br>
+![Siklus Batuan](/_asset/_img/Reviwe/Satelit/siklusbatuan.png) <br>
 
 **Magma** merupakan lelehan material yang terbentuk di bawah permukaan bumi, tetapi dapat mengalir keatas permukaan dan kemudian disebut sebagai lava. Suhu diatas permukaan yang lebih dingin menyebabkan pembekuan atau kristalisasi sehingga membentuk **batuan beku**.
 	Akan tetapi walaupun batuan beku sama-sama dibentuk oleh lelehan material, zat-zat kimia pembentuk dan laju pembekuannya berbeda. Hal ini mengakibatkan perbedaan pada warna, *specific gravity*, tekstur, dan komposisinya. Contoh dari barian beku adalah seperti granit, basalt, dan batu apung.
