@@ -10,7 +10,7 @@ Geologi Laut
 
 Resume Batuan & Siklus Geologi
 
-![Siklus Batuan](/_asset/_img/Reviwe/Satelit/siklusbatuan.png) <br>
+![Siklus Batuan](/img/reviwe/geo/siklusbatuan.png) <br>
 
 **Magma** merupakan lelehan material yang terbentuk di bawah permukaan bumi, tetapi dapat mengalir keatas permukaan dan kemudian disebut sebagai lava. Suhu diatas permukaan yang lebih dingin menyebabkan pembekuan atau kristalisasi sehingga membentuk **batuan beku**.
 
