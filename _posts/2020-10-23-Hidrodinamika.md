@@ -6,6 +6,9 @@ description: Penjelasan singkat dari huku Introduction to hydrodynamics
 categories: [ resume, hydrodynamics ]
 ---
 
+Nama: Muhammad Shulhan Jihadi
+NIM: 26050119130040
+Kelas: Hidrodinamika A
 
 
 ![1](/Media/Image/Hydrodynamics/1.png) <br>
@@ -38,3 +41,4 @@ categories: [ resume, hydrodynamics ]
 ![28](/Media/Image/Hydrodynamics/29.png) <br>
 ![29](/Media/Image/Hydrodynamics/30.png) <br>
 ![30](/Media/Image/Hydrodynamics/fin.png) <br
+Sumber: LeMehaute, Bernard. 1969. Introduction To Hydrodynamics and Water Waves. Tetra Tech Inc: California
